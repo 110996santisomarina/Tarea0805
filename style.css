@@ -1,0 +1,87 @@
+    .avatar {
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .container {
+        width: 800px;
+        height: auto;
+        display: flex;
+        margin: 50px auto;
+        font-family: 'Helvetica Neue', sans-serif;
+    }
+    
+    p,
+    li,
+    ul {
+        color: #232225;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 11px;
+        line-height: 24px;
+        margin: 0 0 24px;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    
+    h1 {
+        color: #232225;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        letter-spacing: -1px;
+        line-height: 1;
+        text-align: right;
+    }
+    
+    h2 {
+        color: #fff;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        letter-spacing: -1px;
+        line-height: 1;
+        text-align: center;
+    }
+    
+    .cajaizq {
+        width: 280px;
+        background: #232225;
+        color: #ffffff;
+        padding: 10px;
+        font-size: 10px;
+        text-align: left;
+    }
+    
+    .cajader {
+        width: 520px;
+        background: #ffffff;
+        padding: 25px;
+        color: #6393ED;
+    }
+    
+    .fecha {
+        color: #111;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 10px;
+        margin: 0 0 5px;
+        text-align: left;
+        color: #6393ED;
+    }
+    
+    li {
+        padding-left: 20px;
+        width: 40%;
+        float: left;
+        list-style: none;
+        height: 1%;
+    }
+    
+    ul {
+        display: flex;
+        margin-bottom: 10px;
+        align-items: center;
+        color: #fff;
+        font-size: 12px;
+    }
